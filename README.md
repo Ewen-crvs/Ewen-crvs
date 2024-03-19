@@ -1,4 +1,4 @@
-<h1>designer professionnel</h1>
+<h1>Student in BUT Computer Science</h1>
 # Technical Skills
 
 ### Databases 

@@ -1,5 +1,5 @@
 <h1>Student in BUT Computer Science</h1>
-# Technical Skills
+## Technical Skills
 
 ### Databases 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=orange)
